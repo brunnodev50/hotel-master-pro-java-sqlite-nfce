@@ -43,15 +43,25 @@ Diferente de sistemas acadêmicos simples, este projeto implementa regras de neg
 
 ## 📸 Screenshots
 
-*(Adicione aqui prints do seu sistema para valorizar o portfólio)*
-
-| Dashboard / Mapa | Frente de Caixa (PDV) |
+### Acesso e Visão Geral
+| Tela de Login | Dashboard / Mapa de Ocupação |
 |:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/400x300?text=Print+do+Dashboard) | ![Caixa](https://via.placeholder.com/400x300?text=Print+do+Caixa) |
+| <img src="https://github.com/user-attachments/assets/ddf492e4-a8c9-4c1e-90aa-06dab35268ce" width="400"> | <img src="https://github.com/user-attachments/assets/aebe05b8-58d7-4955-b0db-4fc70435a9f0" width="100%"> |
 
-| Recibo Gerado (PDF) | Controle de Estoque |
+### Frente de Caixa e Documentos
+| PDV (Caixa) | Comprovante NFC-e Gerado |
 |:---:|:---:|
-| ![PDF Recibo](https://via.placeholder.com/400x300?text=Print+do+PDF) | ![Estoque](https://via.placeholder.com/400x300?text=Print+do+Estoque) |
+| <img src="https://github.com/user-attachments/assets/96564f0b-283b-4048-b93c-2d3abc9a0693" width="100%"> | <img src="https://github.com/user-attachments/assets/087d7f61-deee-468f-8548-6f5558469ac1" width="300"> |
+
+### Gestão e Estoque
+| Controle de Estoque | Gestão de Clientes |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/9e4e5bea-fa96-46d5-9f03-a1c66256c159" width="100%"> | <img src="https://github.com/user-attachments/assets/47000a8c-284f-4c29-88a2-582e5744f44f" width="100%"> |
+
+### Administração
+| Configurações do Sistema | Relatórios Financeiros |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/ef71c57e-015d-4691-a2bf-4c6fab656264" width="100%"> | <img src="https://github.com/user-attachments/assets/a0e79c72-8a4a-4f65-ad2a-6c5fb6dcd6f7" width="100%"> |
 
 ---
 
